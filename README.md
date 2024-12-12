@@ -35,7 +35,7 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/instagram-reel-to-socialverse.git
+   git clone https://github.com/sj422159/instagram-reel-to-socialverse.git
    cd instagram-reel-to-socialverse
    ```
 
@@ -55,7 +55,9 @@ pip install -r requirements.txt
 4. **Download the Instagram reel**:
 
    - The script will prompt you for the **Instagram Reel URL**, **video title**, and **category ID**.
-   
+5.  **Additional Setup**:
+
+   - Make a downloads folder inside the directory.
 ---
 
 ## 🚀 Usage
